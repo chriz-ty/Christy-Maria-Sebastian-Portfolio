@@ -7,7 +7,7 @@ const projects = [
     category: "Artificial Intelligence, NLP, RAG",
     description: "An AI-powered chatbot that uses NLP and RAG to provide context-aware, and personalized conversations based on the trained PDF data. Built as a part of Pathway AI Bootcamp hosted by G Tech Mulearn.",
     link: "https://github.com/chriz-ty/EchoChat-An_AI_ChatBot",
-    image: "chatbot.png"
+    image: "https://coruzant.com/wp-content/uploads/2022/10/chatbot-robot.jpg"
   },
   {
     title: "Multilingual Translator",
