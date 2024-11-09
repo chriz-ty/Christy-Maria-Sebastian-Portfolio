@@ -40,7 +40,7 @@ export default function Hero() {
               2000,
               'Web Designer',
               2000,
-              'B Tech Student',
+              'B. Tech Student',
               2000
             ]}
             wrapper="span"
