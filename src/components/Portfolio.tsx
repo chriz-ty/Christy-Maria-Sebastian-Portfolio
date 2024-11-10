@@ -37,6 +37,13 @@ const projects = [
     link: "https://github.com/AnoopkumarA/NASA_Space_Apps_Challenge_2024",
     image: "https://cdn.mos.cms.futurecdn.net/uVwrSjfVvkGwk9y6zNJMob.jpg"
   },
+  {
+    title: "Den-N-Den Commercial Website",
+    category: "Web Development",
+    description: "Contributed in building a commercial website for DEN N DEN Sustainable Solutions Pvt. Ltd.",
+    link: "https://dennden.in/",
+    image: "https://dennden.in/images/den_img1.jpg"
+  },
   // Add more projects as needed
 ];
 
