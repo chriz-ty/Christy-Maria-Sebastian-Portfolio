@@ -13,7 +13,7 @@ const projects = [
     title: "Multilingual Translator",
     category: "AI, NLP",
     description: "Real-time language translation across multiple languages.",
-    link: "#",
+    link: "https://multilingual-translator-eight.vercel.app/",
     image: "https://aijourn.com/wp-content/uploads/2024/06/1673551479964-780x470.jpg"
   },
   {
