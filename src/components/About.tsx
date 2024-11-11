@@ -39,7 +39,7 @@ export default function About() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="/Christy CV Resume.pdf"
+                href="/Christy Maria Resume.pdf"
                 download="Christy CV Resume"
                 className="flex items-center gap-2 border border-red-600 text-white px-6 py-3 rounded-full hover:bg-red-600/10 transition-colors"
               >
