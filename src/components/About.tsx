@@ -39,8 +39,8 @@ export default function About() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="/Christy Maria Resume.pdf"
-                download="CHRISTY MARIA SEBASTIAN RESUME (8).pdf"
+                href="/CHRISTY MARIA SEBASTIAN RESUME (1).pdf"
+                download="CHRISTY MARIA SEBASTIAN RESUME (1).pdf"
                 className="flex items-center gap-2 border border-red-600 text-white px-6 py-3 rounded-full hover:bg-red-600/10 transition-colors"
               >
                 <Download size={20} />
