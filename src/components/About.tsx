@@ -13,7 +13,7 @@ export default function About() {
         >
           <div className="md:w-1/2">
             <img
-              src="/assets/profile.jpg"
+              src="/assets/cms.jpg"
               alt="Christy Maria Sebastian"
               className="rounded-2xl shadow-2xl w-full max-w-md mx-auto"
             />
