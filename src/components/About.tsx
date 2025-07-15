@@ -21,10 +21,10 @@ export default function About() {
           <div className="md:w-1/2 text-white">
             <h2 className="text-5xl font-bold mb-6">About Me</h2>
             <p className="text-gray-300 mb-6" style={{ textAlign: "justify" }}>
-              I'm a BTech student specializing in Artificial Intelligence and Data Science, 
+              I'm a B Tech graduate, currently specializing in Artificial Intelligence and Data Science, 
               passionate about creating innovative solutions at the intersection of AI and front-end web development. I’m a passionate developer with expertise in Python, React, HTML, and CSS, always eager to tackle unique challenges through innovative tech solutions. My recent projects focus on neural networks, deep learning, and computer vision, where I blend advanced technologies with practical applications. <br />
               <br />
-              I’m currently seeking opportunities to work on exciting projects that allow me to leverage my skills in AI, data analysis, and web development to create impactful solutions.
+              I’m currently working as a AI Data Visualisation Intern at SmartCard AI and also I'm seeking opportunities to work on exciting projects that allow me to leverage my skills in AI, data analysis, and web development to create impactful solutions.
             </p>
             <div className="flex gap-4">
               <motion.a
