@@ -8,6 +8,13 @@ const projects = [
     description: "An AI-powered chatbot that uses NLP and RAG to provide context-aware, and personalized conversations based on the trained PDF data. Built as a part of Pathway AI Bootcamp hosted by G Tech Mulearn.",
     link: "https://github.com/chriz-ty/EchoChat-An_AI_ChatBot",
     image: "https://coruzant.com/wp-content/uploads/2022/10/chatbot-robot.jpg"
+  }, 
+  {
+    title: "AI Job Recommender(Simple ATS)",
+    category: "AI, NLP, Data Preprocessing",
+    description: "AI-powered resume matcher and job recommender using NLP",
+    link: "https://ai-job-recommender-bychriz.streamlit.app/",
+    image: "https://www.recombee.com/img/main-2.svg"
   },
   {
     title: "Multilingual Translator",
@@ -22,6 +29,13 @@ const projects = [
     description: "Contributed in building a 3D color-themed environment synced with user's attire. Built as a part of a Makeathon project hosted by TinkerHub.",
     link: "https://chroma-ride3d.vercel.app/", 
     image: "https://eastgate-software.com/wp-content/uploads/2023/08/computer-vision.png"
+  },
+  {
+    title: "Automatic Expense Classifier App",
+    category: "NLP, AI, Data Preprocessing",
+    description: "Created a simple NLP-based app that automatically categorizes raw expense texts like UPI messages or bank alerts into predefined categories like food, travel, or shopping.",
+    link: "https://expense-classifier-app-bcxkybcuceyxv5zpreuwnu.streamlit.app/",
+    image: "https://www.wallstreetmojo.com/wp-content/uploads/2023/05/Expense-Examples.jpg"
   },
   {
     title: "ASME SJCET Website",
