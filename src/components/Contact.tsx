@@ -61,7 +61,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="text-white font-medium">B Tech, Artificial Intelligence and Data Science</h3>
-                <p className="text-gray-400">Semester 8, Final Year</p>
+                <p className="text-gray-400">2025 Graduate</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
