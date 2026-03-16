@@ -21,10 +21,10 @@ export default function About() {
           <div className="md:w-1/2 text-white">
             <h2 className="text-5xl font-bold mb-6">About Me</h2>
             <p className="text-gray-300 mb-6" style={{ textAlign: "justify" }}>
-              I'm a 2025 B Tech graduate, currently working as a AI Data Visualisation Intern at SmartCard AI, 
-              passionate about creating innovative solutions at the intersection of AI and front-end web development. I’m a passionate developer with expertise in Python, React, HTML, and CSS, always eager to tackle unique challenges through innovative tech solutions. My recent projects focus on neural networks, deep learning, and computer vision, where I blend advanced technologies with practical applications. <br />
+              I'm a 2025 B Tech graduate, currently a MSc. Data Science Student at NTU Singapore, 
+              passionate about creating innovative solutions at the intersection of AI and Data Science. I’m a passionate developer with expertise in Python, React, HTML, and CSS, always eager to tackle unique challenges through innovative tech solutions. My recent projects focus on deep learning, and Machine Learning, where I blend advanced technologies with practical applications. <br />
               <br />
-              I’m currently working in more projects related to Artificial Intelligence and Data Science and also seeking opportunities to work on exciting projects that allow me to leverage my skills in AI, data analysis, and web development to create impactful solutions.
+              I’m currently working in more projects related to Artificial Intelligence and Data Science and also seeking opportunities to work on exciting projects and internships that allow me to leverage my skills in AI, data science, and data analysis to create impactful solutions.
             </p>
             <div className="flex gap-4">
               <motion.a
@@ -39,8 +39,8 @@ export default function About() {
               <motion.a
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
-                href="/CHRISTY MARIA SEBASTIAN RESUME (1).pdf"
-                download="CHRISTY MARIA SEBASTIAN RESUME (1).pdf"
+                href="/CHRISTY MARIA SEBASTIAN RESUME SG.pdf"
+                download="CHRISTY MARIA SEBASTIAN RESUME SG.pdf"
                 className="flex items-center gap-2 border border-red-600 text-white px-6 py-3 rounded-full hover:bg-red-600/10 transition-colors"
               >
                 <Download size={20} />
