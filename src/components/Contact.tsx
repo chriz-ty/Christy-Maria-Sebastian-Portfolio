@@ -60,8 +60,8 @@ export default function Contact() {
                 <Book className="text-red-500" />
               </div>
               <div>
-                <h3 className="text-white font-medium">B Tech, Artificial Intelligence and Data Science</h3>
-                <p className="text-gray-400">2025 Graduate</p>
+                <h3 className="text-white font-medium">Master of Science(MSc.), Data Science</h3>
+                <p className="text-gray-400">2026-2027 Graduate</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">
@@ -69,9 +69,9 @@ export default function Contact() {
                 <MapPin className="text-red-500" />
               </div>
               <div>
-                <h3 className="text-white font-medium">St. Joseph's College of Engineering and Technology</h3>
-                <p className="text-gray-400">Palai, Kottayam</p>
-                <p className="text-gray-400">Kerala, India</p>
+                <h3 className="text-white font-medium">College of Computing and Data Science</h3>
+                <p className="text-gray-400">Nanyang Technological University</p>
+                <p className="text-gray-400">Singapore</p>
               </div>
             </div>
           </motion.div>
