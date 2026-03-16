@@ -4,7 +4,7 @@ import { Brain, Palette, Database, Layout } from 'lucide-react';
 const services = [
   {
     icon: <Brain className="w-12 h-12" />,
-    title: "AI Development",
+    title: "AI Programming",
     description: "Building intelligent systems using machine learning and deep learning technologies."
   },
   {
@@ -19,8 +19,8 @@ const services = [
   },
   {
     icon: <Palette className="w-12 h-12" />,
-    title: "Web Design",
-    description: "Crafting visually engaging and user-friendly designs that provide seamless user experiences across all devices."
+    title: "Data Analysis",
+    description: "Collecting, cleaning, interpreting, and modeling data to uncover actionable insights for better decision-making"
   }
 ];
 
