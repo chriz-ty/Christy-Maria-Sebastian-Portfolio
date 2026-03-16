@@ -32,15 +32,15 @@ export default function Hero() {
         >
           <TypeAnimation
             sequence={[
-              'AI Engineer',
+              'Masters Student',
               2000,
-              'Data Analyst',
+              'AI & Data Science',
               2000,
-              'Frontend Developer',
+              'Data Analysis',
               2000,
-              'Web Designer',
+              'Data Science',
               2000,
-              'B. Tech Graduate',
+              'Natural Language Processing',
               2000
             ]}
             wrapper="span"
